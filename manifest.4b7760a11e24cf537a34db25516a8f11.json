@@ -1,0 +1,31 @@
+{
+  "icons": [
+    {
+      "src": "icon_16x16.4a1e6c8ba33c256ebb0060afd8702df3.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon_24x24.4a1e6c8ba33c256ebb0060afd8702df3.ico",
+      "sizes": "24x24",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon_32x32.4a1e6c8ba33c256ebb0060afd8702df3.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon_64x64.4a1e6c8ba33c256ebb0060afd8702df3.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "name": "Asmex Scorecard",
+  "short_name": "Scorecards",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Asmex Scorecard",
+  "background_color": "#000000"
+}
